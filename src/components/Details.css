@@ -1,0 +1,11 @@
+.details {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  flex-direction: column; 
+  background-color: rgb(213, 216, 216); 
+  padding: 2em; 
+  margin-left: 200px; 
+  margin-right: 200px; 
+  margin-top: 1rem; 
+}
